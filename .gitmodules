@@ -1,0 +1,3 @@
+[submodule "bmp"]
+	path = lib/bmp
+	url = git@github.com:Phandal/bmp
